@@ -1,0 +1,24 @@
+{
+  "name": "azdo-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "exec": "ts-node ./pull-requests.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasann/pull-requests-azdo.git"
+  },
+  "author": "Prasanna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prasann/pull-requests-azdo/issues"
+  },
+  "homepage": "https://github.com/prasann/pull-requests-azdo#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
